@@ -16,7 +16,7 @@
 
 #player #seeker{ right:320px; }
 #player #seekerBase{ border-color:#ccc;  }
-#player #seekerBuffered{ background-color:#4b575d; }
+#player #seekerBuffered{ background-color:#333; }
 #player #seekerSliderBase{ background-color:#ccc; }
 
 #player #volume{ width:65px; right:39px; }
